@@ -1,0 +1,18 @@
+---
+title: "ed_vocab"
+author: "Nadav Sofer"
+date: "6/17/2017"
+output: html_document
+---
+
+```{r}
+load("environment.RData")
+```
+
+# Figure
+
+here's my figure.
+
+```{r}
+edu_vocab.plot
+```
